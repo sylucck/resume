@@ -1,0 +1,9 @@
+
+#putting up my .env file for gitignore
+.env
+
+
+#database
+db.sqlite3
+
+.bak
