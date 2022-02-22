@@ -8,7 +8,7 @@ from django.http.response import HttpResponse
 from django.shortcuts import render
 
 # Define function to download pdf file using template
-def download_pdf_file(request, filename='web.pdf'):
+def download_pdf_file(request, filename='cv.pdf'):
     if filename != '':
         # Define Django project base directory
         BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
