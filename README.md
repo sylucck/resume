@@ -1,4 +1,4 @@
-This websites that shows my porfolio. 
+This website shows my porfolio. 
 
 
 The design, frontend part of this project was created, created and styled by "http://www.styleshout.com/"
