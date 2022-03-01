@@ -1,4 +1,4 @@
-This websites that shows my porfolio. 
+This is my personal website github repository.
 
 
 The design, frontend part of this project was created, created and styled by "http://www.styleshout.com/"
